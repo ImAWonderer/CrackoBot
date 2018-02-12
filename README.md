@@ -1,4 +1,4 @@
-ARDUINO CrackoBot
+ARDUINO CrakoBot
 =============
 
 Arduino Bot with 2 modes (Avoiding Obstacles and Manual control)
